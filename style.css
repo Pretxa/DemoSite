@@ -35,3 +35,15 @@
         margin-bottom: 80px;
         text-transform: uppercase;
     }
+span {
+    animation: blink 0.15s linear infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
