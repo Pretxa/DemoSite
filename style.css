@@ -16,7 +16,7 @@
     }
     
     .header {
-        background: url(C://Users/Przemek/Downloads/image0.jpg) no-repeat center center;
+        background-image: url(/image0.jpg) no-repeat center center;
         background-size: cover;
         height: 950px;
         text-align: center;
