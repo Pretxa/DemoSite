@@ -16,7 +16,7 @@
     }
     
     .header {
-        background-image: url(/image0.jpg) no-repeat center center;
+        background-image: url(/image0.jpg);
         background-size: cover;
         height: 950px;
         text-align: center;
